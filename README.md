@@ -1,9 +1,28 @@
-# Getting Started with Create React App
+#Overview
+This project was the code for the StreamCo react coding Challenge. It was taking a json file they provide and making 
+a mock api call using axios to retrieve movies and tv series.  Then sort and provide links that users can click on. Presumably
+to watch the specific content. This function doesn't exist but the challenge was to create a react app so that it would look
+like the format that they provided.
+
+#Libraries
+axios <br>
+bootstrap <br>
+react <br>
+react-bootstrap<br>
+react-dom<br>
+react-router-dom<br>
+react-scripts<br>
+web-vitals
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+##Photos
+![Image of login Page](https://icedrive.net/dashboard/#/cloud/Zm9sZGVyLTczNDYzMjY3)
+![Image of Home Page](https://icedrive.net/dashboard/#/cloud/Zm9sZGVyLTczNDYzMjY3)
+![Image of Home Page](https://octodex.github.com/images/yaktocat.png)
+![Image of Home Page](https://octodex.github.com/images/yaktocat.png)
 
+## Available Scriptshttps://icedrive.net/dashboard/#/cloud/Zm9sZGVyLTczNDYzMjY3
 In the project directory, you can run:
 
 ### `npm start`
