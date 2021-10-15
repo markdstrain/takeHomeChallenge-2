@@ -1,0 +1,12 @@
+.header{
+          height: 3em;
+          background-image: linear-gradient(180deg, rgb(44, 41, 41), rgb(65, 61, 61));
+          font-family: "Nunito";
+          padding: 0;
+}
+.title{
+          height: inherit;
+          margin-left: 9.9%;
+          font-size: 1.8em;
+          font-weight: 600;
+}

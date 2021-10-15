@@ -1,0 +1,51 @@
+.photo{
+       filter: contrast(60%);
+}
+.home-container{
+          min-height: 50vh;
+}
+.movie-container{
+         display: flex;
+         margin-left: 6.5%;
+         margin-top: 3%;
+         padding-left: 15px;
+         padding-right: 15px;
+         width:310px;
+         justify-content: space-between;
+         position: relative;
+         height: inherit;
+         
+
+}
+.spacer{
+          height: 32vh;
+}
+.card-container{
+          background-color: rgb(34, 32, 32);
+          margin-left: 10%;
+          height: 160%;
+          width: 129%;
+          align-self: auto;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          
+}
+.words{
+          margin-left: 8%;
+          margin-right: 0;
+          width: 100%;
+          color: black;
+}
+.link-name{
+          position: absolute;
+          color:white;
+          font-size: 1.8em;
+          font-weight: 800;
+          font-family: "Nunito";
+          -webkit-text-stroke: 1px black;
+          z-index: 100;
+}
+.image-container{
+          position: relative;
+}
