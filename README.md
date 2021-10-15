@@ -19,8 +19,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ##Photos
 ![Image of login Page](https://icedrive.net/dashboard/#/cloud/Zm9sZGVyLTczNDYzMjY3)
 ![Image of Home Page](https://icedrive.net/dashboard/#/cloud/Zm9sZGVyLTczNDYzMjY3)
-![Image of Home Page](https://octodex.github.com/images/yaktocat.png)
-![Image of Home Page](https://octodex.github.com/images/yaktocat.png)
+![Image of Home Page]()
+![Image of Home Page]()
 
 ## Available Scriptshttps://icedrive.net/dashboard/#/cloud/Zm9sZGVyLTczNDYzMjY3
 In the project directory, you can run:
