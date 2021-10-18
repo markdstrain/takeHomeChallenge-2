@@ -1,10 +1,10 @@
-#Overview
+## Overview
 This project was the code for the StreamCo react coding Challenge. It was taking a json file they provide and making 
 a mock api call using axios to retrieve movies and tv series.  Then sort and provide links that users can click on. Presumably
 to watch the specific content. This function doesn't exist but the challenge was to create a react app so that it would look
 like the format that they provided.
 
-#Libraries
+## Libraries
 axios <br>
 bootstrap <br>
 react <br>
